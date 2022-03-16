@@ -27,7 +27,7 @@ const DEADLINE = now + 60;
 const SETTING = {
   gasLimit: 3000000,
   gasPrice: 5000000000,
-  from: '0x4317c44fD3143D8AC5723865CF046238A2cd8FD3',
+  from: '[INSERT_PUBLIC_KEY]',
   value: ethers.utils.parseUnits("0.001", 18)
 }
 
